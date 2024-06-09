@@ -14,7 +14,7 @@ function BrandExample() {
               height="30"
               className="d-inline-block align-top"
             />{' '}
-            React Bootstrap
+            <div className="font-body">React Bootstrap</div>
           </Navbar.Brand>
         </Container>
       </Navbar>
